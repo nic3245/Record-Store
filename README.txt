@@ -19,3 +19,6 @@ If you do not have the database, be sure to run the database dump provided by op
 In a shell environment or in your terminal, make sure you're in the project directory and simply run 'mainloop.py'.
 If you'd like to see the visualizations, make sure you're in the project directory and run 'visualizations.py'.
 Once you run the program, it will initially ask you for your MySQL user and password, so please provide those. Then, you can start using the application.
+
+Collaborators:
+This project was made in collaboration with Ben Cambournac and Malick Tobe.
